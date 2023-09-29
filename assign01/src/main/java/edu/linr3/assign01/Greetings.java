@@ -8,3 +8,4 @@ public class Greetings
         System.out.println("Are you not entertained?!");
     }
 }
+
