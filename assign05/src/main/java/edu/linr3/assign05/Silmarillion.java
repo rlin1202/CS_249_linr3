@@ -1,4 +1,4 @@
-package edu.realemj.assign05;
+package edu.linr3.assign05;
 
 import java.util.Scanner;
 
