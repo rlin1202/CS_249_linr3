@@ -1,6 +1,6 @@
-package edu.realemj.assign06;
+package edu.linr3.assign06;
 //NOTE: CHANGE realemj to YOUR SITNETID!!!
-import edu.realemj.testing.*;
+import edu.linr3.testing.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import java.io.*;
