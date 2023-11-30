@@ -1,4 +1,4 @@
-package edu.linr3.assign03;
+package edu.realemj.assign03;
 // NOTE: CHANGE realemj to YOUR SITNETID!!!
 import org.testng.Assert;
 import org.testng.annotations.Test;
